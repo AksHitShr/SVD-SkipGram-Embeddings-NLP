@@ -1,6 +1,4 @@
 ## Introduction to NLP
-### Assignment-3
-#### Akshit Sharma (2021101029)
 
 Files included in the submission: 
 - Source code files: svd.py, skip-gram.py, svd-classification.py, skip-gram-classification.py
