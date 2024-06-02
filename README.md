@@ -1,4 +1,4 @@
-## Introduction to NLP
+## Comparing performance of SVD and Skip-Gram word embeddings
 
 Files included in the submission: 
 - Source code files: svd.py, skip-gram.py, svd-classification.py, skip-gram-classification.py
